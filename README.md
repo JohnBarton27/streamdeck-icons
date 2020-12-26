@@ -10,3 +10,9 @@ The 'Acier BAT (Text Solid)' font is used for typography. This font can be found
 | ![refresh.png](/programming/refresh.png) | Force a hard refresh in a browser to clear cache/etc. | Ctrl + F5 |
 | ![firefox-tools.png](/programming/firefox-tools.png) | Launch Firefox Developer Tools | Ctrl + Shift + I |
 | ![jack.png](/programming/jack.png) | Input test user (Jack) credentials | Input Username, Tab, Input Password, Enter |
+
+## Windows
+| Icon | Use/Function | Action |
+| ---- | ------------ | ------ |
+| ![windows-left.png](/windows/windows-left.png) | Move to the previous (left) Windows desktop| Ctrl + Win + Left Arrow |
+| ![windows-right.png](/windows/windows-right.png) | Move to the next (right) Windows desktop| Ctrl + Win + Right Arrow |
