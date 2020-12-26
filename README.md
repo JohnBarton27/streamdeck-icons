@@ -6,3 +6,4 @@ The 'Acier BAT (Text Solid)' font is used for typography. This font can be found
 ## Programming
 ![build.png](/programming/build.png)
 ![refresh.png](/programming/refresh.png)
+![firefox-tools.png](/programming/firefox-tools.png)
