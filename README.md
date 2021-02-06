@@ -25,3 +25,4 @@ The 'Acier BAT (Text Solid)' font is used for typography. This font can be found
 | ---- | -------- |
 | ![crew.png](/webpages/crew.png) | MYCF Crew |
 | ![gcp.png](/webpages/gcp.png) | Google Cloud Platform (GCP) |
+| ![github.png](/webpages/github.png) | GitHub |
