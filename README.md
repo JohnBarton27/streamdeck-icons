@@ -29,3 +29,4 @@ The 'Acier BAT (Text Solid)' font is used for typography. This font can be found
 | ![gcp.png](/webpages/gcp.png) | Google Cloud Platform (GCP) |
 | ![github.png](/webpages/github.png) | GitHub |
 | ![jira.png](/webpages/jira.png) | Jira |
+| ![jenkins.png](/webpages/jenkins.png) | Jenkins |
