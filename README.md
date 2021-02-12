@@ -26,6 +26,7 @@ The 'Acier BAT (Text Solid)' font is used for typography. This font can be found
 | Icon | Web Page |
 | ---- | -------- |
 | ![crew.png](/webpages/crew.png) | MYCF Crew |
+| ![font-awesome.png](/webpages/font-awesome.png) | Font Awesome |
 | ![gcp.png](/webpages/gcp.png) | Google Cloud Platform (GCP) |
 | ![github.png](/webpages/github.png) | GitHub |
 | ![jenkins.png](/webpages/jenkins.png) | Jenkins |
