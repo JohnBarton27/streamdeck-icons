@@ -13,6 +13,11 @@ The 'Acier BAT (Text Solid)' font is used for typography. This font can be found
 | ![firefox-tools.png](/programming/firefox-tools.png) | Launch Firefox Developer Tools | Ctrl + Shift + I |
 | ![jack.png](/programming/jack.png) | Input test user (Jack) credentials | Input Username, Tab, Input Password, Enter |
 
+## Video Editing
+| Icon | Use/Function | Action |
+| ---- | ------------ | ------ |
+| ![resolve.png](/video-editing/resolve.png) | DaVinci Resolve | Open DaVinci Reoslve |
+
 ## Windows
 | Icon | Use/Function | Action |
 | ---- | ------------ | ------ |
