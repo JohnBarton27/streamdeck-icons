@@ -20,6 +20,10 @@ The 'Acier BAT (Text Solid)' font is used for typography. This font can be found
 | ![media.png](/video-editing/media.png) | Switch to "Media" Page | Shift + 2 |
 | ![cut.png](/video-editing/cut.png) | Switch to "Cut" Page | Shift + 3 |
 | ![edit.png](/video-editing/edit.png) | Switch to "Edit" Page | Shift + 4 |
+| ![fusion.png](/video-editing/fusion.png) | Switch to "Fusion" Page | Shift + 5 |
+| ![color.png](/video-editing/color.png) | Switch to "Color" Page | Shift + 6 |
+| ![fairlight.png](/video-editing/fairlight.png) | Switch to "Fairlight" Page | Shift + 7 |
+| ![deliver.png](/video-editing/deliver.png) | Switch to "Deliver" Page | Shift + 8 |
 
 ## Windows
 | Icon | Use/Function | Action |
