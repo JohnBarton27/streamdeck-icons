@@ -24,6 +24,7 @@ The 'Acier BAT (Text Solid)' font is used for typography. This font can be found
 | ![color.png](/video-editing/color.png) | Switch to "Color" Page | Shift + 6 |
 | ![fairlight.png](/video-editing/fairlight.png) | Switch to "Fairlight" Page | Shift + 7 |
 | ![deliver.png](/video-editing/deliver.png) | Switch to "Deliver" Page | Shift + 8 |
+| ![split.png](/video-editing/split.png) | Split clip | Ctrl + \ |
 
 ## Windows
 | Icon | Use/Function | Action |
