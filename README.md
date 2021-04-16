@@ -18,6 +18,7 @@ The 'Acier BAT (Text Solid)' font is used for typography. This font can be found
 | ---- | ------------ | ------ |
 | ![resolve.png](/video-editing/resolve.png) | DaVinci Resolve | Open DaVinci Reoslve |
 | ![media.png](/video-editing/media.png) | Switch to "Media" Page | Shift + 2 |
+| ![cut.png](/video-editing/cut.png) | Switch to "Cut" Page | Shift + 3 |
 
 ## Windows
 | Icon | Use/Function | Action |
