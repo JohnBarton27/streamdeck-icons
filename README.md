@@ -12,6 +12,7 @@ The 'Acier BAT (Text Solid)' font is used for typography. This font can be found
 | ![declaration.png](/programming/declaration.png) | Go to Declaration in IntelliJ | Ctrl + Shift + F1 (custom keymap) |
 | ![firefox-tools.png](/programming/firefox-tools.png) | Launch Firefox Developer Tools | Ctrl + Shift + I |
 | ![jack.png](/programming/jack.png) | Input test user (Jack) credentials | Input Username, Tab, Input Password, Enter |
+| <img src="programming/bookmark.png" alt="bookmark.png" style="width:73px;"/>| Place a bookmark in PyCharm | F11 |
 
 ## Video Editing
 | Icon | Use/Function | Action |
@@ -31,9 +32,15 @@ The 'Acier BAT (Text Solid)' font is used for typography. This font can be found
 | ---- | ------------ | ------ |
 | ![windows-left.png](/windows/windows-left.png) | Move to the previous (left) Windows desktop | Ctrl + Win + Left Arrow |
 | ![windows-right.png](/windows/windows-right.png) | Move to the next (right) Windows desktop | Ctrl + Win + Right Arrow |
+| <img src="windows/left.png" alt="left.png" style="width:73px;"/>| Move to the previous (left) Windows desktop (ALT) | Ctrl + Win + Left Arrow |
+| <img src="windows/right.png" alt="right.png" style="width:73px;"/>| Move to the next (right) Windows desktop (ALT) | Ctrl + Win + Right Arrow |
 | ![enpass.png](/windows/enpass.png) | Open Enpass (Windows application) | Open Enpass |
 | ![up.png](/windows/up.png) | Up | Up Arrow |
 | ![down.png](/windows/down.png) | Down | Down Arrow |
+| <img src="windows/layout1_left_third.png" alt="layout1_left_third.png" style="width:73px;"/>| Layout 1 (Left 3rd) | Drops window into first section of layout 1 |
+| <img src="windows/layout1_middle_third.png" alt="layout1_middle_third.png" style="width:73px;"/>| Layout 1 (Left 3rd) | Drops window into second section of layout 1 |
+| <img src="windows/layout1_right_third.png" alt="layout1_rightt_third.png" style="width:73px;"/>| Layout 1 (Left 3rd) | Drops window into third section of layout 1 |
+
 
 ## Web Pages
 | Icon | Web Page |
